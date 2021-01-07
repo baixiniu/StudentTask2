@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="languages">
+        <item>c语言</item>
+        <item>java </item>
+        <item>php</item>
+        <item>xml</item>
+        <item>html</item>
+    </string-array>
+
+    <string-array name="functions">
+        <item>...</item>
+        <item>个人中心</item>
+        <item>退出</item>
+        <item>Fragment演示</item>
+        <item>图片演示</item>
+        <item>图片下载演示</item>
+    </string-array>
+</resources>
